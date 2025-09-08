@@ -1,0 +1,9 @@
+const PI = 3.14;
+
+const circle = {
+  radius: 10
+};
+
+circle.radius = 15; 
+
+console.log(circle); 
